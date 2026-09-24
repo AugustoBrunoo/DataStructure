@@ -1,4 +1,4 @@
-# 📚 Estruturas de Dados e Algoritmos
+# Estruturas de Dados e Algoritmos
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
@@ -42,8 +42,6 @@ A proposta é transformar os conceitos teóricos em código, permitindo compreen
 ### Principal tecnologia
 
 * **Java** — linguagem utilizada para as implementações e exercícios.
-
-> Caso a versão do Java utilizada no projeto seja diferente da versão indicada no badge, basta alterar `21` pela versão correspondente.
 
 ---
 
